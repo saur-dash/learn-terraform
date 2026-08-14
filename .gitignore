@@ -1,0 +1,12 @@
+# Terraform providers
+.terraform/*
+
+# Terraform plans
+*.plan
+
+# Terraform state
+*.tfstate
+*.tfstate.*
+
+# Terraform variables - may contain sensitive data!
+*.tfvars
