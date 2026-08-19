@@ -10,3 +10,6 @@
 
 # Terraform variables - may contain sensitive data!
 *.tfvars
+
+# MacOS System Files
+.DS_Store
